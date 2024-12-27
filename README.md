@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Estou cursando o 3 semestre do curso de engenhari da computação - CSUPA<br><br>Estou estudando Js e Ts</p>
 
 ###
 
@@ -48,10 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Heitor131&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Heitor131&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Heitor131/Heitor131/output/snake.svg" alt="Snake animation" />
 
 ###
 
