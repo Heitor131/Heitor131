@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Estou cursando o 3 semestre do curso de engenhari da computação - CSUPA<br><br>Estou estudando Js e Ts</p>
+<p align="left">Estou cursando o 3 semestre do curso de engenhari de computação - CSUPA<br><br>Estou estudando Js e Ts</p>
 
 ###
 
