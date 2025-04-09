@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Estou cursando o 3 semestre do curso de engenhari de computação - CSUPA<br><br>Estou estudando Js e Ts</p>
+<p align="left">Estou cursando o 3 semestre do curso de engenharia de computação - CSUPA<br><br>Estou estudando Js e Ts <br.> Estou e tenho alguns desenvolvimento web </br.></p>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h2 align="left">Social Midea</h2>
+<h2 align="left">Contato</h2>
 
 ###
 
