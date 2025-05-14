@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Estou cursando o 3 semestre do curso de engenharia de computação - CSUPA<br><br>Estou estudando Js e Ts <br.> Estou e tenho alguns desenvolvimento web </br.></p>
+<p align="left">Currently, I am in the 3rd semester of Computer Engineering at the State University Center of Pará (CESUPA). I have been dedicated to studying JavaScript and TypeScript, focusing on web development, as well as exploring other areas such as automation and embedded systems.I have practical experience in academic and extension projects, such as programming autonomous robots with Arduino Uno and developing web applications. I am always seeking new challenges that allow me to apply and expand my knowledge in emerging technologies and contribute innovative solutions.</p>
 
 ###
 
