@@ -51,7 +51,7 @@
 
 ###
 
-<h2 align="left">Contato</h2>
+<h2 align="left">Contact</h2>
 
 ###
 
